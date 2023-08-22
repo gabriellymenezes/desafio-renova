@@ -9,7 +9,7 @@ Leitura e tratamento dos dados das eleições e do perfil eleitoral.
 Realização de consultas para analisar o desempenho dos candidatos, incluindo candidato mais votado, votos por partido, entre outros.
 Análise do perfil do eleitorado para candidatos a prefeito.
 Cálculo das abstenções divididas por gênero.
-O resultado de cada consulta é salvo em arquivos CSV para posterior análise. O código demonstra o uso de técnicas de limpeza, agregação e análise de dados.
+O resultado de cada consulta é salvo em arquivos CSV para posterior análise. O código demonstra o uso de técnicas de limpeza, agregação e análise de dados. Projeto feito no Jupyter Notebook utilizando a linguagem Python. 
 
 **Passo a Passo: Tratamento e Análise de Dados Eleitorais**
 
